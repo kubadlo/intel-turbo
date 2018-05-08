@@ -10,6 +10,6 @@ turbo.sh [OPTION]
 -d, --disable     enable turbo boost
 -e, --enable      enable turbo boost
 -h, --help        display this help and exit
--s, --status      print current turbo boost statust
+-s, --status      print current turbo boost status
 -v, --version     output version information and exit
 ```

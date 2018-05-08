@@ -9,7 +9,7 @@ function print_help {
     printf "  -d, --disable\t\tenable turbo boost\n"
     printf "  -e, --enable\t\tenable turbo boost\n"
     printf "  -h, --help\t\tdisplay this help and exit\n"
-    printf "  -s, --status\t\tprint current turbo boost statust\n"
+    printf "  -s, --status\t\tprint current turbo boost status\n"
     printf "  -v, --version\t\toutput version information and exit\n"
 }
 
